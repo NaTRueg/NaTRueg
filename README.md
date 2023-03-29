@@ -8,5 +8,6 @@
 
 <h1><strong>Languages and Tools:</strong></h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,git,wordpress,figma&theme=light,bootstrap)](https://skillicons.dev)
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,figma&theme=light)](https://skillicons.dev)
