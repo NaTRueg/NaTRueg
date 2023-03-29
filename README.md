@@ -10,4 +10,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,vscode,figma&theme=light,git,wordpress,bootstrap)](https://skillicons.dev)
