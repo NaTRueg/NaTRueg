@@ -8,6 +8,8 @@
 
 <h1><strong>Languages and Tools:</strong></h1>
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,php,mysql,git,bootstrap,wordpress,figma&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,php,mysql,git,bootstrap,wordpress,docker,mongodb,java,nodejs,angular,dotnet,electron,flutter,kotlin,react,symfony,androidstudio&perline=6" /> 
+  </a>
+</p>
